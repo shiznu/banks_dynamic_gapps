@@ -81,7 +81,6 @@ cat <<EOF
   usr/srec/en-US/confirmation_bias.fst
   usr/srec/en-US/CONTACT_NAME.fst
   usr/srec/en-US/CONTACT_NAME.syms
-  usr/srec/en-US/CONTACT_NAME.syms
   usr/srec/en-US/contacts.abnf
   usr/srec/en-US/contacts_bias.fst
   usr/srec/en-US/contacts_disambig.fst
